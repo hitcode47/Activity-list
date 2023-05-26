@@ -10,4 +10,4 @@ A ideia do aplicativo é um teste de produção completa, informando todos passo
 
   * Um usuário deseja utilizar um software para gerenciar suas Tarefas do dia a dia:
 
-Ele precisa que eu desenvolva um aplicativo que liste todas suas tarefas diárias. Nesse aplicativo, ele quer ordenar as tarefas por ordem de horário associado às mesma. Além disso ele precisa que o aplicativo entenda a passagem dos dias para que ele não agende nada nos domingos e feriados ou que avise ao tentar fazer isso. 
+Ele precisa que eu desenvolva um aplicativo que liste todas suas tarefas diárias. Nesse aplicativo, ele quer ordenar as tarefas por ordem dos horários associados às mesmas. Além disso ele precisa que o aplicativo entenda a passagem dos dias para que ele não agende nada nos domingos e feriados ou que avise ao tentar fazer isso. 
